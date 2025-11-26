@@ -17,7 +17,7 @@ Specializing in Robotics, Control Systems, IoT, and Digital Systems
 * **Languages:** Python, C, Haskell, VHDL, C++, MIPS32 Assembly 
 * **Tools:** LTSPICE, ModelSim, KiCad, Altera Quartus, MATLAB 
 
----
+
 
 ## 🚀 Project Experience
 
