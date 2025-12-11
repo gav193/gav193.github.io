@@ -14,7 +14,7 @@ Specializing in Robotics, Control Systems, IoT, and Digital Systems
 ---
 
 ## 🛠 Skills & Proficiency
-* **Languages:** Python, C, Haskell, VHDL, C++, MIPS32 Assembly 
+* **Languages:** Python, C, VHDL, C++, MIPS32 Assembly 
 * **Tools:** LTSPICE, ModelSim, KiCad, Altera Quartus, MATLAB 
 
 
@@ -31,8 +31,6 @@ Specializing in Robotics, Control Systems, IoT, and Digital Systems
 ### 🤖 Embedded Systems & Robotics
 * **Line Following Robot** (Feb 2025): Built a 2-DOF robot prototype equipped with sensor arrays
 * **IoT Earthquake Detector** (Aug 2024): Designed an ESP32-based system with HTTP key-linking to WhatsApp for alerts
-* **Rube Goldberg Machine** (Feb 2025): Created a mechanism demonstrating levers and pulleys
-* **Pendulum Powered Car** (Oct 2022): Designed a vehicle using a pendulum as the primary moving force for physics research
 
 ### 💻 Digital Systems & FPGA
 * **MIPS32 Microprocessor** (Dec 2024): Designed and integrated the datapath and control unit for a single-cycle MIPS32 architecture
